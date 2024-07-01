@@ -1,0 +1,64 @@
+{
+  "components": [
+    {
+      "id": "BannerWithLink",
+      "variables": {
+        "subtitle": "Unlock a world of endless fun and joy—where every moment is a laugh out loud!",
+        "title": "Experience Unstoppable Laughter with lol!"
+      }
+    },
+    {
+      "id": "HeroSimpleCentered",
+      "variables": {
+        "subtitle": "Unlock a world of endless fun and joy—where every moment is a laugh out loud!",
+        "title": "Experience Unstoppable Laughter with lol!"
+      }
+    },
+    {
+      "id": "TestimonialsGrid",
+      "variables": {
+        "subtitle": "Unlock a world of endless fun and joy—where every moment is a laugh out loud!",
+        "title": "Experience Unstoppable Laughter with lol!"
+      }
+    },
+    {
+      "id": "StatsSimpleGrid",
+      "variables": {
+        "subtitle": "Unlock a world of endless fun and joy—where every moment is a laugh out loud!",
+        "title": "Experience Unstoppable Laughter with lol!"
+      }
+    },
+    {
+      "id": "CtaSimpleCentered",
+      "variables": {
+        "subtitle": "Unlock a world of endless fun and joy—where every moment is a laugh out loud!",
+        "title": "Experience Unstoppable Laughter with lol!"
+      }
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText",
+      "variables": {
+        "subtitle": "Unlock a world of endless fun and joy—where every moment is a laugh out loud!",
+        "title": "Experience Unstoppable Laughter with lol!"
+      }
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "subtitle": "Unlock a world of endless fun and joy—where every moment is a laugh out loud!",
+        "title": "Experience Unstoppable Laughter with lol!"
+      }
+    },
+    {
+      "id": "FooterSimpleCentered",
+      "variables": {
+        "subtitle": "Unlock a world of endless fun and joy—where every moment is a laugh out loud!",
+        "title": "Experience Unstoppable Laughter with lol!"
+      }
+    }
+  ],
+  "theme": "minimal",
+  "font": "",
+  "title": "Experience Unstoppable Laughter with lol!",
+  "subtitle": "Unlock a world of endless fun and joy—where every moment is a laugh out loud!"
+}
